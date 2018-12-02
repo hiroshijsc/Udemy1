@@ -23,3 +23,10 @@
 /Music/
 /Pictures/
 /Public/
+/.oracle_jre_usage/
+/.pylint.d/
+/.vagrant.d/
+/MyVagrant/
+/VirtualBox VMs/
+/.viminfo
+Election_Donor_Data.csv
