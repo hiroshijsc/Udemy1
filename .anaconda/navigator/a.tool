@@ -1,0 +1,1 @@
+bash --init-file <(echo "source activate /Users/misuhiroshi/anaconda3/envs/morph;")
